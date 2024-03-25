@@ -3,7 +3,7 @@ from telebot import types
 import google.generativeai as genai
 import threading
 
-TELEGRAM_API_TOKEN = '7180517266:AAH296y2JgLodOE9k9KO9hODjP8XMCgvTUo'
+TELEGRAM_API_TOKEN = '7180517266:AAG9Yl_iT0NgyPVOebGrUPrLP-75FXjRYk8'
 GEMINI_API_KEY = "AIzaSyAzxRf2ZPJDMgNtXKVhRT5zFyOGxgKrSX8"
 genai.configure(api_key=GEMINI_API_KEY)
 
